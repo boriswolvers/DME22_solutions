@@ -1,0 +1,16 @@
+2023-02-20 18:24:18.357 | WARNING  | __main__:main:18 - file /home/admindme/code/cleanup/../data/raw/palmerpenquins.parq.csv does not exist
+2023-02-20 18:24:36.662 | WARNING  | __main__:main:18 - file /home/admindme/code/cleanup/../data/raw/palmerpenquins.parq does not exist
+2023-02-20 18:25:25.801 | WARNING  | __main__:main:18 - file /home/admindme/code/cleanup/../data/raw/palmerpenguins.parq does not exist
+2023-02-20 18:27:37.604 | WARNING  | __main__:main:19 - file /home/admindme/code/cleanup/../data/raw/palmerpenguins.parq does not exist
+2023-02-20 18:28:30.883 | INFO     | preprocess:clean_file:23 - reading file /home/admindme/code/cleanup/data/raw/palmerpenguins.parq
+2023-02-20 18:28:30.905 | INFO     | preprocess:clean_file:26 - Cleaning Species
+2023-02-20 18:28:30.907 | INFO     | preprocess:clean_file:29 - Replacing Nan in Comments column
+2023-02-20 18:28:30.908 | INFO     | preprocess:clean_file:32 - Dropping nans
+2023-02-20 18:28:30.912 | INFO     | preprocess:clean_file:37 - Dropped 20 rows.
+2023-02-20 18:28:30.912 | INFO     | preprocess:clean_file:41 - Writing file to data/processed/20230220-1828.csv
+2023-02-20 18:29:00.796 | INFO     | preprocess:clean_file:23 - reading file /home/admindme/code/cleanup/data/raw/palmerpenguins.parq
+2023-02-20 18:29:00.818 | INFO     | preprocess:clean_file:26 - Cleaning Species
+2023-02-20 18:29:00.820 | INFO     | preprocess:clean_file:29 - Replacing Nan in Comments column
+2023-02-20 18:29:00.821 | INFO     | preprocess:clean_file:32 - Dropping nans
+2023-02-20 18:29:00.825 | INFO     | preprocess:clean_file:37 - Dropped 20 rows.
+2023-02-20 18:29:00.825 | INFO     | preprocess:clean_file:41 - Writing file to data/processed/20230220-1829.csv

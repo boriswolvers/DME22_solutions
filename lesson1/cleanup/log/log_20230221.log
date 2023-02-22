@@ -1,0 +1,6 @@
+2023-02-21 19:11:04.810 | INFO     | preprocess:clean_file:23 - reading file /home/admindme/code/cleanup/data/raw/palmerpenguins.parq
+2023-02-21 19:11:04.843 | INFO     | preprocess:clean_file:26 - Cleaning Species
+2023-02-21 19:11:04.846 | INFO     | preprocess:clean_file:29 - Replacing Nan in Comments column
+2023-02-21 19:11:04.848 | INFO     | preprocess:clean_file:32 - Dropping nans
+2023-02-21 19:11:04.853 | INFO     | preprocess:clean_file:37 - Dropped 20 rows.
+2023-02-21 19:11:04.854 | INFO     | preprocess:clean_file:41 - Writing file to data/processed/20230221-1911.csv
