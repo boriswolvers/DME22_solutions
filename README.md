@@ -5,4 +5,4 @@ Connect with your VM from Visual Studio code. Navigate in your terminal to your 
 
 #### git clone https://github.com/boriswolvers/DME22_solutions.git
 
-The solutions found on this git repo are based on the homework questions found in the jupyter notebooks of the DME22 repo of https://github.com/raoulg/DME22. For questions pls contact me.
+The solutions found on this git repo are based on the homework questions found in the jupyter notebooks of the DME22 repo of https://github.com/raoulg/DME22. For general questions pls contact me.
