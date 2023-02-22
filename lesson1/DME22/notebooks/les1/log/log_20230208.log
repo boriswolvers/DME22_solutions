@@ -1,0 +1,5 @@
+2023-02-08 09:44:27.057 | INFO     | preprocess:clean_file:23 - reading file /home/admindme/code/DME22/notebooks/les1/data/raw/les1.csv
+2023-02-08 09:44:27.062 | INFO     | preprocess:clean_file:26 - Cleaning name
+2023-02-08 09:44:27.064 | INFO     | preprocess:clean_file:29 - Dropping nas
+2023-02-08 09:44:27.068 | INFO     | preprocess:clean_file:34 - Dropped 18 rows.
+2023-02-08 09:44:27.069 | INFO     | preprocess:clean_file:38 - Writing file to data/processed/20230208-0944.csv
